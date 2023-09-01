@@ -43,7 +43,7 @@ def main():
     print(f"O NUMERO QUE VOCE PENSOU FOI O {soma}")
 
 
-def mainMELHOR():
+def main():
 
     soma = 0
     x = 0
@@ -78,5 +78,4 @@ def mainMELHOR():
 
 
 if __name__ == "__main__":
-    # main()
-    mainMELHOR()
+    main()
