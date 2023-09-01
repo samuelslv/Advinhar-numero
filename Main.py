@@ -5,45 +5,6 @@ import os
 
 
 def main():
-    soma = 0
-    x = 0
-
-    print("Pense em um numero de 1 até 63")
-
-    x = carta.card1()
-    opc = input("O seu numero esta nessa sequencia? S ou N: ")
-    if (opc == "S" or opc == "s"):
-        soma = soma + x
-
-    x = carta.card2()
-    opc = input("O seu numero esta nessa sequencia? S ou N: ")
-    if (opc == "S" or opc == "s"):
-        soma = soma + x
-
-    x = carta.card3()
-    opc = input("O seu numero esta nessa sequencia? S ou N: ")
-    if (opc == "S" or opc == "s"):
-        soma = soma + x
-
-    x = carta.card4()
-    opc = input("O seu numero esta nessa sequencia? S ou N: ")
-    if (opc == "S" or opc == "s"):
-        soma = soma + x
-
-    x = carta.card5()
-    opc = input("O seu numero esta nessa sequencia? S ou N: ")
-    if (opc == "S" or opc == "s"):
-        soma = soma + x
-
-    x = carta.card6()
-    opc = input("O seu numero esta nessa sequencia? S ou N: ")
-    if (opc == "S" or opc == "s"):
-        soma = soma + x
-
-    print(f"O NUMERO QUE VOCE PENSOU FOI O {soma}")
-
-
-def main():
 
     soma = 0
     x = 0
