@@ -1,5 +1,4 @@
 # advinar numero
-import gerar_carta as carta
 import gerar_carta_NEW as new
 import os
 
